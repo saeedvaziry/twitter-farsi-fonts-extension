@@ -29,8 +29,5 @@
         "css/fonts.css"
       ]
     }
-  ],
-  "permissions": [
-    "tabs"
   ]
 }
