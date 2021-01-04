@@ -1,0 +1,6 @@
+@import "vazir.css";
+
+.vazir *[lang="fa"] *, .vazir *[lang="ar"] * {
+  font-family: Vazir !important;
+  font-weight: 300 !important;
+}
